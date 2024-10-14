@@ -48,8 +48,8 @@
     - certificates
     - geerlingguy.postgresql
     - candlepin
+    - httpd
     - pulp
     - foreman-proxy
     - redis
     - foreman
-    - httpd
